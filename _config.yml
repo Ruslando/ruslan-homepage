@@ -9,7 +9,7 @@ header:
   title: ''
   has_nav: true
   nav_links:
-    - label: About me
+    - label: Home
       url: /
     - label: Projects
       url: /generic/
