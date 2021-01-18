@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to my Homepage
+    title: Welcome to my homepage
     subtitle: |
       ### Welcome to my homepage
     image: images/avatar.png
