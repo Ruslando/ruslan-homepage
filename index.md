@@ -8,7 +8,7 @@ sections:
       ### Student at HTW Berlin, studying international media computer science
     image: images/avatar.png
     image_alt: Author avatar
-  - title: Text
+  - title: Intro Text
     section_id: intro
     type: section_content
     content: >-
