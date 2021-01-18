@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Ruslan Novikov
     subtitle: |
-      ### Welcome to my homepage
+      ### Student at HTW Berlin, studying international media computer science
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
