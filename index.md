@@ -3,33 +3,33 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
+    title: Ruslan Novikov
+    subtitle: |
+      ### Student at HTW Berlin, studying international media computer science
     image: images/avatar.png
     image_alt: Author avatar
-  - title: Text
+  - title: Intro Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      ### Hello and welcome to my homepage!
 
-      ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+      My name is Ruslan Novikov. I am studying media computer science at HTW
+      (Hochschule für Technik und Wirtschaft) Berlin, Germany and I am currently
+      in the 6th semester.
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+
+      My main areas of interest are:
+
+
+      *   Computer graphics
+
+
+      *   Machine learning / Deep learning
+
+
+      *   Software and game development
   - title: Recent Posts
     section_id: posts
     type: section_posts

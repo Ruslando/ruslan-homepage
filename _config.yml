@@ -6,17 +6,15 @@ collections:
     permalink: '/posts/:title/'
 description: A vanilla theme for Stackbit
 header:
-  title: Stackbit Vanilla
+  title: ''
   has_nav: true
   nav_links:
     - label: Home
       url: /
-    - label: Generic
+    - label: Projects
       url: /generic/
-    - label: Elements
+    - label: Contact
       url: /elements/
-    - label: Ipsum
-      url: /ipsum/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
@@ -41,6 +39,7 @@ footer:
     - label: DEV
       url: 'https://dev.to/'
       new_window: true
+  links: []
 sass:
   indentWidth: 4
   style: nested
