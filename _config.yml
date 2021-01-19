@@ -19,7 +19,7 @@ header:
     - label: Contact
       url: /elements/
 footer:
-  content: 'This '
+  content: This homepage has been created with Stackbit.
   has_social: true
   social_links:
     - label: GitHub
