@@ -4,8 +4,7 @@ excerpt: ''
 sections:
   - title: My Projects
     section_id: projects-hero
-    subtitle: |
-      *
+    subtitle: ''
     image_alt: lorem-ipsum
     type: section_hero
   - title: Posts
