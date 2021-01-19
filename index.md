@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Ruslan Novikov
     subtitle: |
-      ### Overview of projects
+      ### Student at the HTW Berlin, Germany
     image_alt: Author avatar
   - title: Recent Posts
     section_id: posts
