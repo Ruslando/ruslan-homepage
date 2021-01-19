@@ -16,3 +16,6 @@ Email: ruslan.novikov@hotmail.de
 GitHub: [Ruslando (Ruslan) (github.com)](https://github.com/Ruslando)
 
 LinkedIn: [Ruslan Novikov | LinkedIn](https://www.linkedin.com/in/ruslannov/)
+
+
+
