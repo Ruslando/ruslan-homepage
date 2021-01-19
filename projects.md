@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: My Projects
 excerpt: lorem-ipsum
 sections:
   - title: Projects
