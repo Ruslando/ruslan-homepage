@@ -1,7 +1,7 @@
 ---
 title: Homepage
 sections:
-  - section_id: 'Student at the HTW Berlin, Germany'
+  - section_id: aboutme
     type: section_hero
     title: Ruslan Novikov
     subtitle: |
