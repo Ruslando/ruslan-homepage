@@ -2,7 +2,7 @@
 title: My Projects
 excerpt: ''
 sections:
-  - title: Projects
+  - title: My Projects
     section_id: projects-hero
     subtitle: |
       *
