@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Projects
     subtitle: |
-      ### Student at HTW Berlin, studying international media computer science
+      ###
     image_alt: Author avatar
   - title: Recent Posts
     section_id: posts
