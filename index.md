@@ -57,13 +57,17 @@ sections:
       most.
 
 
+      /\* Keywords marked bold are the ones I feel most confortable with and /
+      or have the most experience with
+
+
       Programming languages:
 
 
-      *   Java
+      *   **Java**
 
 
-      *   C#
+      *   **C#**
 
 
       *   Python
@@ -78,13 +82,28 @@ sections:
       *   T-SQL, MySQL
 
 
-      Libraries and APIs
+      Libraries and APIs:
 
 
       *   PyTorch (library for machine learning in Python)
 
 
       *   RxJava (library for reactive and asynchronous programming)
+
+
+      Software and Engines:
+
+
+      *   **Unity**
+
+
+      *   Unreal Engine 4
+
+
+      *   **PhotoshopCC **
+          (mostly digital drawing)
+
+      *   Android Studio
   - title: Recent Posts
     section_id: posts
     type: section_posts
