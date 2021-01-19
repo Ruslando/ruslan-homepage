@@ -3,7 +3,7 @@ title: Projects
 excerpt: ''
 sections:
   - title: Projects
-    section_id: 'Here are the projects I have contributed to '
+    section_id: 'Here are collection of projects I have contributed to '
     subtitle: >-
       ## Lorem ipsum
 
