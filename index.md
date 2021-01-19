@@ -37,7 +37,14 @@ sections:
 
       The coursework and projects have exposed me to a wide variety of fields
       such as software development, databases, game development, machine
-      learning and (a little bit of) networking
+      learning and (a little bit of) networking.
+
+
+      For our project course, our team of six people has created an Android
+      application which helps adults who have kids that suffer from anaphylactic
+      shocks, give better and faster first aid and guide them through critical
+      steps. This project won us 1st place (out of 6) in the bachelors category
+      of the competition). You can learn more in the projects tab.
 
 
       #### Programming languages and libraries
