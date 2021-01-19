@@ -11,7 +11,7 @@ Name: Ruslan Novikov
 
 Email: ruslan.novikov@hotmail.de
 
-#### Social media and other platforms:
+#### *Social media and other platforms:*
 
 LinkedIn: [Ruslan Novikov LinkedIn](https://www.linkedin.com/in/ruslannov/)
 
