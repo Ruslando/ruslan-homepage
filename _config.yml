@@ -20,7 +20,7 @@ header:
       url: /elements/
 footer:
   content: ''
-  has_social: false
+  has_social: true
   social_links:
     - label: GitHub
       url: 'https://github.com/Ruslando'
