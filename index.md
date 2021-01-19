@@ -18,8 +18,7 @@ sections:
       I am currently studying international media and computer science
       (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
       Technik und Wirtschaft), which has a slight focus on digital media like
-      audio, video, images, web-design and 3D design. 
-
+      audio, video, images, web-design and 3D design.
 
       I am generally interested in any develepmonts in the field of computer
       science, more specifically in computer graphics, engine pipelines (and a
@@ -61,16 +60,16 @@ sections:
       Programming languages:
 
 
-      *   **Java, C#, **Python, JavaScript
+      *   **Java**, **C#**, Python, JavaScript
 
 
-      Query languages:
+      ###### Query languages:
 
 
       *   T-SQL, MySQL
 
 
-      Libraries and APIs:
+      ###### Libraries and APIs:
 
 
       *   PyTorch (library for machine learning in Python)
@@ -79,10 +78,10 @@ sections:
       *   RxJava (library for reactive and asynchronous programming)
 
 
-      Software and Engines:
+      ###### Software and Engines:
 
 
-      *   **Unity, **Unreal Engine 4
+      *   **Unity**, Unreal Engine 4
 
 
       <!---->
