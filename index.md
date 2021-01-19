@@ -62,19 +62,19 @@ sections:
       have the most experience with*
 
 
-      ###### Programming languages:
+      ##### Programming languages:
 
 
       *   **Java**, **C#**, Python, JavaScript
 
 
-      ###### Query languages:
+      ##### Query languages:
 
 
       *   T-SQL, MySQL
 
 
-      ###### Libraries and APIs:
+      ##### Libraries and APIs:
 
 
       *   PyTorch (library for machine learning in Python)
@@ -83,7 +83,7 @@ sections:
       *   RxJava (library for reactive and asynchronous programming)
 
 
-      ###### Software and Engines:
+      ##### Software and Engines:
 
 
       *   **Unity**, Unreal Engine 4
