@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact information and links
-subtitle: Vanilla styleguide.
+subtitle: ''
 ---
 
 # This is an H1
