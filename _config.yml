@@ -19,7 +19,7 @@ header:
     - label: Contact
       url: /elements/
 footer:
-  content: ''
+  content: 'This '
   has_social: true
   social_links:
     - label: GitHub
