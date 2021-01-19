@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact information and links
+title: Contact information and social media links
 subtitle: ''
 ---
 You can contact me or visit me on any of the provided social media links
