@@ -103,12 +103,12 @@ sections:
       My first big interest was drawing and 3D sculpting, which I still do
       occasionally but not that often, as I (and many others) struggle to find a
       conforable level of quality that I am happy about. Through this I acquired
-      some skills in Photoshop and ZBrush,
+      some skills in Photoshop, ZBrush and some other design software
 
 
-      I have recently started playing the guitar and bass, to play along to some
-      songs. Here, I don't have the pressure I had when drawing. It is just
-      about having fun.
+      I have recently started playing the guitar and bass, just to play along to
+      some songs that I like. I don't have the pressure I had when drawing. It
+      is just about having fun.
     type: section_content
 layout: advanced
 excerpt: ''
