@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact information
 subtitle: Vanilla styleguide.
 ---
 
