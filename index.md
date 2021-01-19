@@ -97,7 +97,11 @@ sections:
       *   Android Studio
 
 
+
+
       #### Hobbies and interests
+
+
 
 
       My first big interest was drawing and 3D sculpting, which I still do
