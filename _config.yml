@@ -12,7 +12,7 @@ header:
     - label: Home
       url: /generic
     - label: Projects
-      url: /generic/
+      url: /
     - label: Contact
       url: /elements/
 footer:
