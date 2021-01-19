@@ -13,7 +13,7 @@ header:
       url: /
     - label: Contact
       url: /elements/
-    - label: lorem-ipsum
+    - label: Projects
       url: lorem-ipsum
       new_window: false
       no_follow: false
