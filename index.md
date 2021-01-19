@@ -32,7 +32,7 @@ sections:
       architectures and optimization techniques in deep learning applications.
 
 
-      #### Academic
+      #### *Academic*
 
 
       The coursework and projects have exposed me to a wide variety of fields
@@ -47,7 +47,7 @@ sections:
       of the competition. You can learn more in the project in the project tab.
 
 
-      #### Programming languages and libraries
+      #### *Programming languages and libraries*
 
 
       I have a generally good understanding of high-level object-oriented
@@ -97,11 +97,7 @@ sections:
       *   Android Studio
 
 
-
-
-      #### Hobbies and interests
-
-
+      #### *Hobbies and interests*
 
 
       My first big interest was drawing and 3D sculpting, which I still do
