@@ -2,11 +2,6 @@
 title: Projects
 excerpt: ''
 sections:
-  - title: Posts
-    section_id: posts
-    has_more_link: true
-    more_link_text: Click here for more information about the project
-    type: section_posts
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: >-
@@ -22,5 +17,10 @@ sections:
       - dolor sit amet
     image_alt: lorem-ipsum
     type: section_hero
+  - title: Posts
+    section_id: posts
+    has_more_link: true
+    more_link_text: Click here for more information about the project
+    type: section_posts
 layout: advanced
 ---
