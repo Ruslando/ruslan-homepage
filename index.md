@@ -102,4 +102,5 @@ sections:
       *   Android Studio
     type: section_content
 layout: advanced
+excerpt: d
 ---
