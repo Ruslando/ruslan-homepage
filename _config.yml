@@ -9,7 +9,7 @@ header:
   title: ''
   has_nav: true
   nav_links:
-    - label: Projects
+    - label: Home
       url: /
     - label: Contact
       url: /elements/
