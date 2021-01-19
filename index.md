@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Projects
     subtitle: |
-      ###
+      ### Overview of projects
     image_alt: Author avatar
   - title: Recent Posts
     section_id: posts
