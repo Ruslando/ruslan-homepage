@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Just a generic subtitle for the page
+subtitle: ''
 layout: page
 ---
 
