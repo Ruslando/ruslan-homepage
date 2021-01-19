@@ -2,11 +2,6 @@
 title: Projects
 excerpt: ''
 sections:
-  - title: My Projects
-    section_id: projects-hero
-    subtitle: ''
-    image_alt: lorem-ipsum
-    type: section_hero
   - title: Posts
     section_id: posts
     has_more_link: true
