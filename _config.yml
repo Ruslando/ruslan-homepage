@@ -22,20 +22,11 @@ footer:
   content: ''
   has_social: false
   social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      new_window: true
-    - label: Instagram
-      url: 'https://www.instagram.com/'
-      new_window: true
     - label: GitHub
-      url: 'https://github.com/'
+      url: 'https://github.com/Ruslando'
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
-      new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
+      url: 'https://www.linkedin.com/in/ruslannov/'
       new_window: true
   links: []
 sass:
