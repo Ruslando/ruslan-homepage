@@ -15,10 +15,14 @@ sections:
       My name is Ruslan Novikov, 22 years old and currently living in Berlin,
       Germany.
 
+
+
       I am currently studying international media and computer science
       (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
       Technik und Wirtschaft), which has a slight focus on digital media like
       audio, video, images, web-design and 3D design.
+
+
 
       I am generally interested in any develepmonts in the field of computer
       science, more specifically in computer graphics, engine pipelines (and a
@@ -57,7 +61,7 @@ sections:
       have the most experience with*
 
 
-      Programming languages:
+      ###### Programming languages:
 
 
       *   **Java**, **C#**, Python, JavaScript
