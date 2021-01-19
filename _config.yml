@@ -10,7 +10,7 @@ header:
   has_nav: true
   nav_links:
     - label: Home
-      url: /
+      url: /generic
     - label: Projects
       url: /generic/
     - label: Contact
