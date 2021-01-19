@@ -1,6 +1,6 @@
 ---
 title: My Projects
-excerpt: lorem-ipsum
+excerpt: ''
 sections:
   - title: Projects
     section_id: projects-hero
