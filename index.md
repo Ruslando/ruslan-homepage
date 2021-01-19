@@ -3,7 +3,7 @@ title: Homepage
 sections:
   - section_id: hero
     type: section_hero
-    title: ''
+    title: Ruslan Novikov
     subtitle: |
       ### Overview of projects
     image_alt: Author avatar
