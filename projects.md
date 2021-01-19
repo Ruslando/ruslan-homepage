@@ -1,5 +1,5 @@
 ---
-title: My Projects
+title: Projects
 excerpt: ''
 sections:
   - title: My Projects
