@@ -3,7 +3,7 @@ title: Projects
 excerpt: ''
 sections:
   - title: Projects
-    section_id: lorem-ipsum
+    section_id: 'Here are the projects '
     subtitle: >-
       ## Lorem ipsum
 
