@@ -13,20 +13,20 @@ sections:
     image_alt: lorem-ipsum
     content: >
       My name is Ruslan Novikov, 22 years old and currently living in Berlin,
-      Germany. I am currently studying international media and computer science
+      Germany.
+
+      I am currently studying international media and computer science
       (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
-      Technik und Wirtschaft). In internation media and computer science we are
-      mostly exposed to software design and development but with a slight focus
-      on digital media like video, audio, imagery and CGI. Course subjects are
-      for example image processing (image synthesis, convolution), 3D-design,
-      game development projects in Unity and Unreal Engine and so on.
+      Technik und Wirtschaft), which has a slight focus on digital media like
+      audio, video, images, web-design and 3D design. 
 
 
-      I am generally interested in almost any develepmonts in the field of
-      computer science, but more specifically in computer graphics, engine
-      pipelines (and a little bit of shader programming) and most recently have
-      been really enganged in developments in machine learning / deep learning
-      specifically network architectures and optimization techniques.
+      I am generally interested in any develepmonts in the field of computer
+      science, more specifically in computer graphics, engine pipelines (and a
+      little bit of shader programming) and most recently have been really
+      enganged in developments in machine learning / deep learning, specifically
+      network architectures and optimization techniques in deep learning
+      applications.
 
 
       #### Academic
@@ -37,11 +37,11 @@ sections:
       learning and (a little bit of) networking.
 
 
-      For our project course, our team of six people has created an Android
-      application which helps adults who have kids that suffer from anaphylactic
+      For our project competition, our team of six people has created an Android
+      application which helps adults with children that suffer from anaphylactic
       shocks, give better and faster first aid and guide them through critical
-      steps. This project won us 1st place (out of 6) in the bachelors category
-      of the competition). You can learn more in the projects tab.
+      steps. This project won 1st place (out of six) in the bachelors category
+      of the competition. You can learn more in the project in the project tab.
 
 
       #### Programming languages and libraries
@@ -54,23 +54,14 @@ sections:
       most.
 
 
-      /\* Keywords marked bold are the ones I feel most confortable with and /
-      or have the most experience with
+      *Keywords marked bold are the ones I feel most confortable with and / or
+      have the most experience with*
 
 
       Programming languages:
 
 
-      *   **Java**
-
-
-      *   **C#**
-
-
-      *   Python
-
-
-      *   JavaScript
+      *   **Java, C#, **Python, JavaScript
 
 
       Query languages:
@@ -91,13 +82,13 @@ sections:
       Software and Engines:
 
 
-      *   **Unity**
+      *   **Unity, **Unreal Engine 4
 
 
-      *   Unreal Engine 4
+      <!---->
 
 
-      *   \*\*PhotoshopCC \*\*
+      *   **PhotoshopCC**
           (mostly digital drawing)
 
       *   Android Studio
