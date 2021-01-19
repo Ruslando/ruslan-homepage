@@ -11,7 +11,7 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: About me
+    - label: Home
       url: /generic/
     - label: Contact
       url: /elements/
