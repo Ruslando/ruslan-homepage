@@ -3,7 +3,7 @@ title: Projects
 sections:
   - section_id: hero
     type: section_hero
-    title: Ruslan Novikov
+    title: Projects
     subtitle: |
       ### Student at HTW Berlin, studying international media computer science
     image: images/avatar.png
