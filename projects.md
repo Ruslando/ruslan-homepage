@@ -8,5 +8,10 @@ sections:
       *
     image_alt: lorem-ipsum
     type: section_hero
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
 layout: advanced
 ---
