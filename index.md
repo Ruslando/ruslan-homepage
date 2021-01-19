@@ -7,7 +7,7 @@ sections:
     subtitle: |
       ### Student at the HTW Berlin, Germany
     image_alt: Author avatar
-    image: images/art-logo.svg
+    image: images/hqdefault.jpg
   - title: About me
     section_id: aboutme-section
     image_alt: lorem-ipsum
