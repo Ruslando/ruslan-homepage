@@ -9,8 +9,6 @@ header:
   title: ''
   has_nav: true
   nav_links:
-    - label: Home
-      url: /generic
     - label: Projects
       url: /
     - label: Contact
