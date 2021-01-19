@@ -10,7 +10,7 @@ sections:
   - title: Posts
     section_id: posts
     has_more_link: true
-    more_link_text: lorem-ipsum
+    more_link_text: ''
     type: section_posts
 layout: advanced
 ---
