@@ -11,13 +11,13 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: Contact
-      url: /elements/
     - label: Projects
       url: lorem-ipsum
       new_window: false
       no_follow: false
       type: action
+    - label: Contact
+      url: /elements/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
