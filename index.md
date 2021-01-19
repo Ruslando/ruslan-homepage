@@ -3,7 +3,7 @@ title: Homepage
 sections:
   - section_id: hero
     type: section_hero
-    title: Projects
+    title: ''
     subtitle: |
       ### Overview of projects
     image_alt: Author avatar
