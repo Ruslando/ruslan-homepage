@@ -12,7 +12,7 @@ header:
     - label: Home
       url: /
     - label: Projects
-      url: lorem-ipsum
+      url: /projects
       new_window: false
       no_follow: false
       type: action
