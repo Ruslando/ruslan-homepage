@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UI Kit
+title: ''
 subtitle: Vanilla styleguide.
 ---
 
