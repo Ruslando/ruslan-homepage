@@ -8,7 +8,7 @@ sections:
       ### Student at the HTW Berlin, Germany
     image_alt: Author avatar
   - title: About me
-    section_id: lorem-ipsum
+    section_id: aboutme-section
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
