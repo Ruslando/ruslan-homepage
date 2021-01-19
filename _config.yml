@@ -13,6 +13,11 @@ header:
       url: /
     - label: Contact
       url: /elements/
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      new_window: false
+      no_follow: false
+      type: action
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
