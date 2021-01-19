@@ -26,11 +26,10 @@ sections:
 
 
       I am generally interested in any develepmonts in the field of computer
-      science, more specifically in (low-level) computer graphics, engine
-      pipelines (and a little bit of shader programming) and most recently have
-      been really enganged in developments in machine learning / deep learning,
-      specifically network architectures and optimization techniques in deep
-      learning applications.
+      science, more specifically in (low-level) computer graphics (and a little
+      bit of shader programming) and most recently have been really enganged in
+      developments in machine learning / deep learning, specifically network
+      architectures and optimization techniques in deep learning applications.
 
 
       #### Academic
