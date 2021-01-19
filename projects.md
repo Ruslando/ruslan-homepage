@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Projects
 excerpt: lorem-ipsum
 sections: []
 layout: advanced
