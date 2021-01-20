@@ -21,15 +21,17 @@ sections:
 
       I am currently studying international media and computer science
       (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
-      Technik und Wirtschaft), which has a slight focus on digital media like
-      audio, video, images, web-design and 3D design.
+      Technik und Wirtschaft).
 
 
-      I am generally interested in any develepmonts in the field of computer
-      science, more specifically in (low-level) computer graphics (and a little
-      bit of shader programming) and most recently have been really enganged in
-      developments in machine learning / deep learning, specifically network
-      architectures and optimization techniques in deep learning applications.
+      I am generally interested in any develepments in the field of computer
+      science but more specifically in (low-level) computer graphics (and a
+      little bit of shader programming).
+
+
+      More recently I have been really enganged in developments in machine
+      learning / deep learning, specifically network architectures and
+      optimization techniques in deep learning applications.
 
 
       #### *Academic*
@@ -40,11 +42,12 @@ sections:
       learning and (a little bit of) networking.
 
 
-      For our project competition, our team of six people has created an Android
-      application which helps adults with children that suffer from anaphylactic
-      shocks, give better and faster first aid and guide them through critical
-      steps. This project won 1st place (out of six) in the bachelors category
-      of the competition. You can learn more in the project in the project tab.
+      In a project competition hosted by our university, our team of six people
+      has created an Android application which helps adults with children who
+      suffer from anaphylactic shocks, give better and faster first aid and
+      guide them through critical steps. Our project won 1st place (out of six)
+      in the bachelors category of the competition. You can learn more in the
+      project in the project tab.
 
 
       #### *Programming languages and libraries*
@@ -92,7 +95,7 @@ sections:
 
 
       *   **PhotoshopCC**
-          (mostly digital drawing)
+          (mostly for digital drawing)
 
       *   Android Studio
     type: section_content
