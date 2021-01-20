@@ -24,7 +24,7 @@ sections:
       Technik und Wirtschaft).
 
 
-      I am generally interested in any develepments in the field of computer
+      My interest generally lies in any develepments in the field of computer
       science but more specifically in (low-level) computer graphics (and a
       little bit of shader programming).
 
@@ -32,22 +32,6 @@ sections:
       More recently I have been really enganged in developments in machine
       learning / deep learning, specifically network architectures and
       optimization techniques in deep learning applications.
-
-
-      #### *Academic*
-
-
-      The coursework and projects have exposed me to a wide variety of fields
-      such as software development, databases, game development, machine
-      learning and (a little bit of) networking.
-
-
-      In a project competition hosted by our university, our team of six people
-      has created an Android application which helps adults with children who
-      suffer from anaphylactic shocks, give better and faster first aid and
-      guide them through critical steps. Our project won 1st place (out of six)
-      in the bachelors category of the competition. You can learn more in the
-      project in the project tab.
 
 
       #### *Programming languages and libraries*
