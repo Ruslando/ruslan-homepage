@@ -5,7 +5,7 @@ sections:
   - title: Projects
     section_id: projects-hero
     subtitle: |
-      Here are collection of projects I have worked on or was part of.
+      Here is a collection of projects I have worked on or was part of.
     image_alt: lorem-ipsum
     type: section_hero
   - title: Posts
