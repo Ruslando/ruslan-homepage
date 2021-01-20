@@ -25,8 +25,8 @@ sections:
 
 
       My interest generally lies in any develepments in the field of computer
-      science but more specifically in (more low-level) computer graphics (and a
-      little bit of shader programming).
+      science but more specifically in computer graphics (and a little bit of
+      shader programming).
 
 
       More recently I have been really enganged in developments in machine
