@@ -3,7 +3,7 @@ layout: page
 title: ''
 subtitle: ''
 ---
-You can contact me or visit me on any of the provided social media links
+### You can contact me or visit me on any of the provided social media links
 
 #### *Contact information:*
 
