@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Ruslan Novikov
     subtitle: |
-      ### Student at the HTW Berlin, Germany
+      ### Computer science student at the HTW Berlin, Germany
     image_alt: Author avatar
     image: images/modern-turtle.jpg
   - title: About me
