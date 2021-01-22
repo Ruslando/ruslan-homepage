@@ -2,6 +2,11 @@
 title: Projects
 excerpt: ''
 sections:
+  - title: Certificates
+    section_id: certificates-hero
+    subtitle: ''
+    image_alt: lorem-ipsum
+    type: section_hero
   - title: Projects
     section_id: projects-hero
     subtitle: |
@@ -13,10 +18,5 @@ sections:
     has_more_link: true
     more_link_text: Click here for more information about the project
     type: section_posts
-  - title: Certificates
-    section_id: certificates-hero
-    subtitle: ''
-    image_alt: lorem-ipsum
-    type: section_hero
 layout: advanced
 ---
