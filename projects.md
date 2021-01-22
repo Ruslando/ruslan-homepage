@@ -14,7 +14,7 @@ sections:
     more_link_text: Click here for more information about the project
     type: section_posts
   - title: Certificates
-    section_id: lorem-ipsum
+    section_id: certificates-hero
     subtitle: >-
       ## Lorem ipsum
 
