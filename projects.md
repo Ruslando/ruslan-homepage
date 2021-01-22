@@ -2,11 +2,6 @@
 title: Projects
 excerpt: ''
 sections:
-  - title: Certificates
-    section_id: certificates-hero
-    subtitle: ''
-    image_alt: lorem-ipsum
-    type: section_hero
   - title: Projects
     section_id: projects-hero
     subtitle: |
