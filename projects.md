@@ -2,7 +2,7 @@
 title: Projects
 excerpt: ''
 sections:
-  - title: Projects
+  - title: Projects & Certificates
     section_id: projects-hero
     subtitle: |
       Here is a collection of projects I have worked on or was part of.
