@@ -7,13 +7,13 @@ excerpt: lorem-ipsum
 date: '2021-01-22'
 layout: post
 ---
-I have participated in the "Zero to GANs" PyTorch Deep Learning course which was hosted by Aakash N S on the platform "Jovian".
+I have participated in the "*Zero to GANs*" PyTorch Deep Learning course which was hosted by Aakash N S on the platform "Jovian".
 
 This course is a beginner-friendly online course that offers a "practical and coding-focused introduction to deep learning using the PyTorch framework" which included thoreatical online lessons and practical assignments.
 
 The themes covered in this course are:
 
-1.   PyTorch basics and Gradient Descent
+1.  PyTorch basics and Gradient Descent
 
 2.  Working with images and logistic regression using the MNIST dataset
 
