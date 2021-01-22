@@ -29,7 +29,7 @@ footer:
       url: 'https://www.linkedin.com/in/ruslannov/'
       new_window: true
     - label: lorem-ipsum
-      url: lorem-ipsum
+      url: 'https://jovian.ai/ruslando'
       new_window: false
       no_follow: false
       type: action
