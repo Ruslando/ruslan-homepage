@@ -3,7 +3,7 @@ title: Projects
 excerpt: ''
 sections:
   - title: Projects & Certificates
-    section_id: projects-hero
+    section_id: projects-certificates
     subtitle: |
       Here is a collection of projects I have worked on or was part of.
     image_alt: lorem-ipsum
