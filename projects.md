@@ -5,7 +5,7 @@ sections:
   - title: Projects & Certificates
     section_id: projects-certificates
     subtitle: |
-      Here is a collection of projects I have worked on or was part of.
+      Here are my recent projects and certificates
     image_alt: lorem-ipsum
     type: section_hero
   - title: Posts
