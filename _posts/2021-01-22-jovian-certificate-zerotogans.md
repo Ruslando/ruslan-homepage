@@ -1,6 +1,6 @@
 ---
 title: Certificate
-subtitle: lorem-ipsum
+subtitle: ''
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
