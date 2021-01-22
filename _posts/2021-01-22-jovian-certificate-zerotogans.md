@@ -35,4 +35,8 @@ Evaluation status of final course project: **Pending**
 
 ##### Further improvements:
 
-Since then, I have tried to improve the accuracy on this dataset and tried different methods. In my latest work, I have used the "EfficientNetB0" architecture with the use of the fast.ai library in order to train the model. The EfficientNet model is a state-of-the-art architecture for image classification and object detection and promises better results while having a smaller network with fever parameters. With only basic augmentations, I could achieve around 92 % validation accuracy on this dataset.
+Since then, I have tried to improve the accuracy on this dataset and tried different methods. In my latest work, I have used the "EfficientNetB0" architecture with the use of the fast.ai library in order to train the model. The EfficientNet model is a state-of-the-art architecture for image classification and object detection and promises better results while having a smaller network with fever parameters. With only basic augmentations, I could achieve around 91 % validation accuracy on this dataset, which is a big improvement. You can view the colab note book here or on my page on Jovian.
+
+##### What's in for the future?
+
+I definetly plan on experimenting and reading about different techniques and strategies. It would also be cool to implement one of the networks by hand, instead of just using one.
