@@ -4,8 +4,7 @@ excerpt: ''
 sections:
   - title: Projects & Certificates
     section_id: projects-certificates
-    subtitle: |
-      Here are my recent projects and certificates
+    subtitle: ''
     image_alt: lorem-ipsum
     type: section_hero
   - title: Posts
