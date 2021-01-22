@@ -15,33 +15,37 @@ sections:
       ### About me
 
 
-      My name is Ruslan Novikov, 22 years old and currently living in Berlin,
-      Germany.
+      My name is Ruslan Novikov, I'm 22 years old and currently living in
+      Berlin, Germany.
 
 
-      I am currently studying international media and computer science
-      (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
-      Technik und Wirtschaft).
+      I am studying international media and computer science (Internationale
+      Medieninformatik) at the HTW Berlin (Hochschule für Technik und
+      Wirtschaft). As of now, I am actively searching for internship opportunity
+      in order to get real-world experience.
 
 
-      My interest generally lies in any develepments in the field of computer
+      My interest generally lies in any developments in the field of computer
       science but more specifically in computer graphics (and a little bit of
       shader programming).
 
 
-      More recently I have been really enganged in developments in machine
+      More recently I have been really enganed in developments in machine
       learning / deep learning, specifically network architectures and
-      optimization techniques in deep learning applications.
+      optimization techniques in deep learning applications and actively worked
+      on course assignments and published some work examples from my experience
+      with some datasets and architectures. You can read more about it in the
+      projects tab.
 
 
       #### *Programming languages and libraries*
 
 
-      I have a generally good understanding of high-level object-oriented
-      programming languages and also have share of experience in functional and
-      also reactive programming. Here I have gathered the languages and
-      libraries I have the most experience with and those that I work with the
-      most.
+      I am experienced in high-level object-oriented programming languages and
+      also have a fair share of experience in functional and reactive
+      programming. Here I have gathered a small list featuring some programming
+      languages and frameworks that I confidently work and have a lot of
+      experience with.
 
 
       ###### Programming languages:
@@ -56,10 +60,10 @@ sections:
       *   T-SQL, MySQL
 
 
-      ###### Libraries and APIs:
+      ###### Libraries and Frameworks:
 
 
-      *   PyTorch (library for machine learning in Python)
+      *   PyTorch (framework for machine learning in Python)
 
 
       *   RxJava (library for reactive and asynchronous programming)
