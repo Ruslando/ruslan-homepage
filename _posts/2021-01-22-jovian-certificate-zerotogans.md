@@ -31,15 +31,11 @@ By completing all assignments, aswell as writing a final course project, partici
 
 In my course project "Training the Chest X-Ray Images (Pneumonia) Dataset on a CNN (ResNet9)", as the title suggests, I have trained a model on a fairly small ResNet9 and achieved around 75% in validation accuracy, which is not bad for my first deep learning project. I originally intended to implement the ResNet50 architecture in hope to achieve a better performance, but the implementation proved to be more challenging than I anticipated and time was sadly also an issue. This project can be found on my [Jovian page](https://jovian.ai/ruslando)
 
-
-
-
-
 Evaluation status of final course project: **Pending**
 
 ##### Further improvements:
 
-Since then, I have tried to improve the accuracy on this dataset and tried different methods. In my latest work, I have used the "EfficientNetB0" architecture with the use of the fast.ai library in order to train the model. The EfficientNet model is a state-of-the-art architecture for image classification and object detection and promises better results while having a smaller network with fever parameters. With only basic augmentations, I could achieve around 91 % validation accuracy on this dataset, which is a big improvement. You can view the colab note book here or on my page on Jovian.
+Since then, I have tried to improve the accuracy on this dataset and tried different methods. In my latest work, I have used the "EfficientNetB0" architecture with the use of the fast.ai library in order to train the model. The EfficientNet model is a state-of-the-art architecture for image classification and object detection and promises better results while having a smaller network with fever parameters. With only basic augmentations, I could achieve around 91 % validation accuracy on this dataset, which is a big improvement. You can view the colab note book [here](https://colab.research.google.com/drive/1KsocooGG2OLeYWBC1oGsltsTo_gthZct) or on my page on Jovian.
 
 ##### What's in for the future?
 
