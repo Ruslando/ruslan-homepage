@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Certificate: Deep Learning with Pytorch: Zero to GANs'
 subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
