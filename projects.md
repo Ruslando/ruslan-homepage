@@ -15,17 +15,7 @@ sections:
     type: section_posts
   - title: Certificates
     section_id: certificates-hero
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    subtitle: ''
     image_alt: lorem-ipsum
     type: section_hero
 layout: advanced
