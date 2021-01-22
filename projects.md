@@ -13,7 +13,7 @@ sections:
     has_more_link: true
     more_link_text: Click here for more information about the project
     type: section_posts
-  - title: lorem-ipsum
+  - title: Certificates
     section_id: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
