@@ -11,7 +11,7 @@ sections:
   - title: Posts
     section_id: posts
     has_more_link: true
-    more_link_text: Click here for more information about the project
+    more_link_text: Read more
     type: section_posts
 layout: advanced
 ---
