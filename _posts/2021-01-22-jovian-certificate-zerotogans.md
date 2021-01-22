@@ -3,7 +3,7 @@ title: 'Certificate: Deep Learning with PyTorch'
 subtitle: 'Deep Learning with PyTorch: Zero to GANs'
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: ''
 date: '2021-01-22'
 layout: post
 ---
