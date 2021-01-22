@@ -44,10 +44,6 @@ sections:
       most.
 
 
-      *Keywords marked bold are the ones I feel most confortable with and / or
-      have the most experience with*
-
-
       ###### Programming languages:
 
 
