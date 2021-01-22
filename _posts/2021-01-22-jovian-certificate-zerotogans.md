@@ -29,7 +29,11 @@ By completing all assignments, aswell as writing a final course project, partici
 
 ##### Course project:
 
-In my course project "Training the Chest X-Ray Images (Pneumonia) Dataset on a CNN (ResNet9)", as the title suggests, I have trained a model on a fairly small ResNet9 and achieved around 75% in validation accuracy, which is not bad for my first deep learning project. I originally intended to implement the ResNet50 architecture, but the implementation proved to be more challenging than I anticipated and time was sadly also an issue. This project can be found on my Jovian page.
+In my course project "Training the Chest X-Ray Images (Pneumonia) Dataset on a CNN (ResNet9)", as the title suggests, I have trained a model on a fairly small ResNet9 and achieved around 75% in validation accuracy, which is not bad for my first deep learning project. I originally intended to implement the ResNet50 architecture in hope to achieve a better performance, but the implementation proved to be more challenging than I anticipated and time was sadly also an issue. This project can be found on my [Jovian page](https://jovian.ai/ruslando)
+
+
+
+
 
 Evaluation status of final course project: **Pending**
 
