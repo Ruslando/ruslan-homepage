@@ -4,7 +4,7 @@ subtitle: Android application that supports parents with children with anaphylax
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: Android application that supports parents with children with anaphylaxis
-date: '2020-02-21'
+date: '2020-02-02'
 layout: post
 ---
 ##### Introduction
