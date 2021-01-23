@@ -15,6 +15,8 @@ In situtations of imminent or already ongoing anaphylactic shocks, many parents 
 
 Our task was to create a prototype for such an application taking into account the technical know-how of the potential users, the technology available to them, their experiences and many other factors. We have decided to create a native android application with an low api-level that provides compatibility to almost any android device and that will work smoothly under any circumstance.
 
+Link to the GitHub repository: [omshill0305/Anaphylaxie-App (github.com)](https://github.com/omshill0305/Anaphylaxie-App)
+
 ##### My tasks
 
 One of my tasks was to create a database solution for our native android application. Our application should record data on application use such as input speed or the selected symptoms, that will be used for research. It should send the data to the servers of the facility whenever possible.
