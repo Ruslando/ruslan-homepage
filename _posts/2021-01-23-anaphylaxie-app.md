@@ -35,4 +35,4 @@ The prototype was running and fairly stable at the day of presentation.
 
 We were luckily able to finish the profile section of our application and could successfully save and load profile information and were also able to make changes to our data without any hitch or sign of slowdown, but were not able to implement it on our whole application.
 
-Our application has won 1st place out of 6 groups in the bachelors category.
+Despite being the only group that had almost zero technical consultation, which forced our group to develop and research everything on our own, our application has won 1st place out of 6 groups in the bachelors category. We believe that this was one of the reason why we might have won the competition, as the other projects were definetly not worse than ours, but were either supported by professors or were commissioned and supervised by companies.
