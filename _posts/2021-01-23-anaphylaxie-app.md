@@ -1,6 +1,6 @@
 ---
 title: 'Project: "Anaphylaxie App"'
-subtitle: lorem-ipsum
+subtitle: Android application that supports parents with children with
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
