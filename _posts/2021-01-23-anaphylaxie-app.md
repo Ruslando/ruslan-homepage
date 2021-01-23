@@ -17,7 +17,7 @@ Our task was to create a prototype for such an application taking into account t
 
 ##### My tasks
 
-One of my tasks was to create a database solution for our native android application. Our application should record data on application use such as input speed or the selected symptoms, that will be used for research. This data should send the data to the servers of the facility whenever possible.
+One of my tasks was to create a database solution for our native android application. Our application should record data on application use such as input speed or the selected symptoms, that will be used for research. It should send the data to the servers of the facility whenever possible.
 
 After some research we have decided to use the Room Persistance Library, which is a library that helps store data locally on the device. This library uses MySQL as a backbone, while the actual database implementation can be achieved through basic Java scripting. In essence, every data object is treated as a Java/Kotlin class that can have references to other data objects in the database and the possibility to save query searches as functions. This way it is very easy to map queries to action calls in the application.
 
