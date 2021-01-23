@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Project: "Anaphylaxie App"'
 subtitle: lorem-ipsum
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
