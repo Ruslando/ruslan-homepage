@@ -15,14 +15,13 @@ sections:
       ### About me
 
 
-      My name is Ruslan Novikov, I'm 22 years old and currently living in
-      Berlin, Germany.
+      My name is Ruslan Novikov, I'm 22 years old and living in Berlin, Germany.
 
 
-      I am studying international media and computer science (Internationale
-      Medieninformatik) at the HTW Berlin (Hochschule für Technik und
-      Wirtschaft). As of now, I am actively searching for internship opportunity
-      in order to get real-world experience.
+      I am currently studying international media and computer science
+      (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
+      Technik und Wirtschaft). As of now, I am actively searching for internship
+      opportunity in order to get real-world experience.
 
 
       My interest generally lies in any developments in the field of computer
