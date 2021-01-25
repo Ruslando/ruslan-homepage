@@ -26,16 +26,14 @@ sections:
 
 
       My interest generally lies in any developments in the field of computer
-      science but more specifically in computer graphics (and a little bit of
-      shader programming).
+      science but more specifically in computer graphics and more recently, in
+      developments in machine learning / deep learning. Specifically network
+      architectures and optimization techniques in deep learing applications are
+      extremly interesting. 
 
 
-      More recently I have been really enganed in developments in machine
-      learning / deep learning, specifically network architectures and
-      optimization techniques in deep learning applications and actively worked
-      on course assignments and published some work examples from my experience
-      with some datasets and architectures. You can read more about it in the
-      projects tab.
+      I have recently been working on course assignments and did some
+      experiments on my own. You can read more about it in the portfolio tab.
 
 
       #### *Programming languages and libraries*
