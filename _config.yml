@@ -11,7 +11,7 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: Projects
+    - label: Portfolio
       url: /projects
       new_window: false
       no_follow: false
