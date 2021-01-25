@@ -29,7 +29,7 @@ sections:
       science but more specifically in computer graphics and more recently, in
       developments in machine learning / deep learning. Specifically network
       architectures and optimization techniques in deep learing applications are
-      extremly interesting. 
+      extremely interesting.
 
 
       I have recently been working on course assignments and did some
