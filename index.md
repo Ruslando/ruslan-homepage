@@ -39,10 +39,9 @@ sections:
 
 
       I am experienced in high-level object-oriented programming languages and
-      also have a fair share of experience in functional and reactive
-      programming. Here I have gathered a small list featuring some programming
-      languages and frameworks that I confidently work and have a lot of
-      experience with.
+      have a fair share of experience in functional and reactive programming.
+      Here I have gathered a small list featuring some programming languages and
+      frameworks that I confidently work and have a lot of experience with.
 
 
       ###### Programming languages:
