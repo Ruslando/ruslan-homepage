@@ -33,8 +33,7 @@ In my course project "Training the Chest X-Ray Images (Pneumonia) Dataset on a C
 
 Evaluation status of final course project: **Passed**
 
-****[Completion Certificate for JovianML's Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/certificate/MFQTIMZXGU)
-
+[Completion Certificate for JovianML's Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/certificate/MFQTIMZXGU)
 
 ##### Further improvements:
 
