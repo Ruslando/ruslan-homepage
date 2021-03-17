@@ -56,15 +56,6 @@ sections:
       *   T-SQL, SQLite
 
 
-      ###### Libraries and Frameworks:
-
-
-      *   PyTorch (framework for machine learning in Python)
-
-
-      *   RxJava (library for reactive and asynchronous programming)
-
-
       ###### Software and Engines:
 
 
