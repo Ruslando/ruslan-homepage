@@ -15,13 +15,13 @@ sections:
       ### About me
 
 
-      My name is Ruslan Novikov, I'm 22 years old and living in Berlin, Germany.
+      My name is Ruslan Novikov, I'm 22 years old and currently living in
+      Berlin, Germany.
 
 
       I am currently studying international media and computer science
       (Internationale Medieninformatik) at the HTW Berlin (Hochschule für
-      Technik und Wirtschaft). As of now, I am actively searching for internship
-      opportunity in order to get real-world experience.
+      Technik und Wirtschaft).
 
 
       My interest generally lies in any developments in the field of computer
@@ -41,7 +41,7 @@ sections:
       I am experienced in high-level object-oriented programming languages and
       have a fair share of experience in functional and reactive programming.
       Here I have gathered a small list featuring some programming languages and
-      frameworks that I confidently work and have a lot of experience with.
+      frameworks that I confidently work with and have a lot of experience with.
 
 
       ###### Programming languages:
@@ -53,7 +53,7 @@ sections:
       ###### Query languages:
 
 
-      *   T-SQL, MySQL
+      *   T-SQL, SQLite
 
 
       ###### Libraries and Frameworks:
